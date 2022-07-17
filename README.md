@@ -67,5 +67,4 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzl96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="fzl96" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fzl96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="fzl96" /></p><br/>
 <br/>
-<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fzl96&theme=tokyonight&hide_border=true" alt="fzl96" /></p>
