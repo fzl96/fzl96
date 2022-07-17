@@ -21,7 +21,6 @@
 <a href="https://instagram.com/fzl.i_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fzl.i_" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -60,15 +59,11 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   </a> 
-<p align="left"> 
-
 </p>
 
-
-<br/>
+<hr/>
 <h2>Github Stats</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzl96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="fzl96" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fzl96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="fzl96" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fzl96&theme=tokyonight&hide_border=true" alt="fzl96" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzl96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="fzl96" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fzl96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="fzl96" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fzl96&theme=tokyonight&hide_border=true" alt="fzl96" /></p>
