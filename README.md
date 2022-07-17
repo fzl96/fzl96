@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fzl96&label=Profile%20views&color=0e75b6&style=flat" alt="fzl96" /> </p>
 
+<img align="right" src="https://github.com/fzl96/fzl96/blob/main/undraw_Programming_re_kg9v.png" width="450px"/>
+
 - 🔭 I’m currently working on **Task Management PWA**
 
 - 🌱 I’m currently learning **React, Next, Remix, TypeScript**
