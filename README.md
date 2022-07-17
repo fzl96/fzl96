@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 👋 Hi there, I'm Fazlie
+### I'm a (student) front-end web developer from Indonesia
 - 🌱 I’m currently learning React, Next, Remix, TypeScript<br>
 - 🥅 2022 Goals: Learn more about web development
 - ⚡ Fun fact: I am a Weeb
