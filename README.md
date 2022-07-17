@@ -2,6 +2,8 @@
 <h3 align="center">A passionate (student) frontend developer from Indonesia</h3>
 
 <img align="right" src="https://github.com/fzl96/fzl96/blob/main/undraw_Programming_re_kg9v.png" width="450px"/>
+<br/>
+<br/>
 
 - 🔭 I’m currently working on **Task Management PWA**
 
