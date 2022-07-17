@@ -61,7 +61,7 @@
   </a> 
 </p>
 
-<hr/>
+<br/>
 <h2>Github Stats</h2>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzl96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="fzl96" /></p>
