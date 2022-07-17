@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 🌱 I’m currently learning React, Next, Remix, TypeScript<br>- 🥅 2022 Goals: Learn more about web development<br>- ⚡ Fun fact: I am a Weeb
+- 🌱 I’m currently learning React, Next, Remix, TypeScript<br>
+- 🥅 2022 Goals: Learn more about web development
+- ⚡ Fun fact: I am a Weeb
 
 
 ## 🌐 Socials:
