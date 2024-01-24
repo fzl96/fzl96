@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My own All in One productivity web app**
 
-- 🌱 I’m currently learning **React, Next, Remix, TypeScript**
+- 🌱 I’m currently improving my skills in **React, Next, TypeScript**
 
 - 📫 How to reach me **fpsdragon333@gmail.com**
 
