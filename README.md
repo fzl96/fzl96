@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **A Point of Sale app for KUD**
+- 🔭 I’m currently working on **My own All in One productivity web app**
 
 - 🌱 I’m currently learning **React, Next, Remix, TypeScript**
 
