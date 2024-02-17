@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **My own All in One productivity web app**
+- 🔭 I’m currently working on my own **All in One productivity web app**
 
 - 🌱 I’m currently improving my skills in **React, Next, TypeScript**
 
