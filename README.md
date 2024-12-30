@@ -5,13 +5,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on my own **All in One productivity web app**
-
 - 🌱 I’m currently improving my skills in **React, Next, TypeScript**
 
 - 📫 How to reach me **fpsdragon333@gmail.com**
 
-- ⚡ Fun fact **I am a Weeb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
